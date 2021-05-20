@@ -21,4 +21,4 @@ public class Task09 {
             System.out.printf("Значение функции в точке x=%d: F(x)=%f",x,fx);
         }
     }
-}
+}// Молодец
